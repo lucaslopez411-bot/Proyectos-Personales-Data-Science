@@ -1,33 +1,74 @@
-# Hi, I'm Lucas 👋
+# 📊 Mi Portfolio de Data Analytics & Data Science
 
-🎓 Accountant | Master's student in accounting and finance | 📊 Aspiring Data Analyst / Data Scientist
+¡Bienvenido/a a mi espacio de proyectos!  
+Aquí voy a ir subiendo mis trabajos prácticos, análisis de datos y modelos de Machine Learning aplicados a problemas reales.
 
-I have a background in accounting and finance, and I am currently transitioning into data science. I enjoy working with data to solve business problems and generate meaningful insights.
+Soy **Lucas Lopez** — Contador, estudiante de maestría en contabilidad y finanzas con orientación a Data.  
+Este portfolio refleja mi proceso de aprendizaje y mi pasión por transformar datos en decisiones.
 
-## 🛠️ Skills
+---
 
-* Python (Pandas, NumPy, Scikit-learn)
-* Power BI
-* Excel
-* Machine Learning (Supervised & Unsupervised)
+## 🗂️ ¿Qué vas a encontrar?
 
-## 📈 Projects
+| 📊 **Análisis exploratorio (EDA)** | Python, Pandas, Matplotlib | 🚀 Disponibles |
+| 🤖 **Modelos de Machine Learning** | Scikit-learn, XGBoost | ✅ Disponibles |
+| 📈 **Dashboards interactivos** | Power BI, Excel | 🔄 Próximamente |
+| 💰 **Finanzas y contabilidad analítica** | Python, SQL | 📌 Planeado |
 
-* 📊 Churn Prediction (Machine Learning)
-* 📉 Business Dashboard (Power BI)
-* 💰 Financial Data Analysis *(coming soon)*
+---
 
-## 🚀 Currently Learning
+## 📁 Proyectos destacados
 
-* Machine Learning & Model Optimization
-* Deep Learning with TensorFlow
-* Improving my English for professional communication
+### 🔹 [Predicción de Churn](./Churn-Prediction)
+> Modelo de clasificación para predecir abandono de clientes en un banco.
+- 🐍 Python (Pandas, Numpy, Scikit-learn, ML)
+- 📊 Precisión: 90% en clasificación
+- 📓 Incluye EDA + modelo + conclusiones
 
-## 🎯 Goals
+### 🔹 [Dashboard de Negocios con Power BI](./Business-Dashboard-PowerBI) 🔄 Próximamente
+> Visualización interactiva de ventas, márgenes y KPIs comerciales.
+- 📊 Power BI + DAX
+- 📁 Datos simulados de retail
+- 🖼️ Preview incluido
 
-I am looking for opportunities as a Data Analyst where I can apply my skills, learn from real-world challenges, and grow professionally.
+### 🔹 [Análisis Financiero de Estados Contables](./Financial-Data-Analysis) 📌 Planeado  
+> Limpieza y análisis de balances contables con Python.
 
-## 📫 Contact
+---
 
-* LinkedIn: (www.linkedin.com/in/lucas-gabriel-lopez-676052167)
-* Email: (lucas.lopez.411@gmail.com)
+## 🛠️ Herramientas que uso
+
+### 📊 Visualización
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3884b4?style=for-the-badge&logo=python&logoColor=white)
+
+### 🤖 Machine Learning
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-FF6F00?style=for-the-badge&logo=xgboost&logoColor=white)
+![LightGBM](https://img.shields.io/badge/LightGBM-1793D0?style=for-the-badge&logo=lightgbm&logoColor=white)
+
+### 🧠 Técnicas de ML
+- **Bagging**: Random Forest, BaggingClassifier
+- **Boosting**: XGBoost, LightGBM, AdaBoost
+- **Optimización**: GridSearchCV, RandomizedSearchCV
+
+### 🐍 Bases
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+### 📈 BI y Oficina
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+
+---
+
+## 📬 ¿Querés contactarme?
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/lucas-gabriel-lopez-676052167)
+- 📧 [lucas.lopez.411@gmail.com](mailto:lucas.lopez.411@gmail.com)
+- 🌐 [GitHub](https://github.com/lucaslopez411-bot)
+
+---
+
+⭐ *Este portfolio está en constante evolución. ¡Volvé pronto para ver nuevos proyectos!*
