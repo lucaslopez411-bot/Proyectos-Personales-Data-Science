@@ -1,6 +1,6 @@
 # Hi, I'm Lucas 👋
 
-🎓 Accountant | 📊 Aspiring Data Analyst / Data Scientist
+🎓 Accountant | Master's student in accounting and finance | 📊 Aspiring Data Analyst / Data Scientist
 
 I have a background in accounting and finance, and I am currently transitioning into data science. I enjoy working with data to solve business problems and generate meaningful insights.
 
