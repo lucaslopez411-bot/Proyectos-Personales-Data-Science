@@ -19,7 +19,7 @@ Este portfolio refleja mi proceso de aprendizaje y mi pasión por transformar da
 
 ## 📁 Proyectos destacados
 
-###🔹 [Predicción de Depresión Estudiantil](.Proyectos_en_Python/Student_Depresion_Prediction.ipynb)
+### 🔹 [Predicción de Depresión Estudiantil](.Proyectos_en_Python/Student_Depresion_Prediction.ipynb)
 
 > Sistema de Machine Learning para detectar de forma temprana el riesgo de depresión en estudiantes.
 
