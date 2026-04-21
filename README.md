@@ -19,7 +19,18 @@ Este portfolio refleja mi proceso de aprendizaje y mi pasión por transformar da
 
 ## 📁 Proyectos destacados
 
-### 🔹 [Predicción de Churn](./Churn-Prediction)
+###🔹 Predicción de Depresión Estudiantil
+
+> Sistema de Machine Learning para detectar de forma temprana el riesgo de depresión en estudiantes.
+
+- 🐍 Python (Pandas, NumPy, Scikit-learn, XGBoost)
+- 🤖 Modelos: Regresión Logística, Random Forest y XGBoost
+- 📊 Dataset: +27.000 registros con variables académicas, sociales y de salud
+- 🧠 Enfoque: identificación de factores clave (estrés financiero, presión académica, sueño, pensamientos suicidas)
+- 📈 Incluye EDA + validación de hipótesis + selección de variables + modelos predictivos
+- 🎯 Objetivo: pasar de un enfoque reactivo a un sistema de alerta temprana
+
+### 🔹 [Predicción de Churn](./Proyecto_DSII_Churn_Clientes_Lopez_Lucas.ipynb)
 > Modelo de clasificación para predecir abandono de clientes en un banco.
 - 🐍 Python (Pandas, Numpy, Scikit-learn, ML)
 - 📊 Precisión: 90% en clasificación
