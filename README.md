@@ -19,7 +19,7 @@ Este portfolio refleja mi proceso de aprendizaje y mi pasión por transformar da
 
 ## 📁 Proyectos destacados
 
-### 🔹 [Predicción de Depresión Estudiantil](.Proyectos_en_Python/Student_Depresion_Prediction.ipynb)
+### 🔹 [Predicción de Depresión Estudiantil](.Proyectos%20en%20Python%20/Student_Depresion_Prediction.ipynb)
 
 > Sistema de Machine Learning para detectar de forma temprana el riesgo de depresión en estudiantes.
 
@@ -30,7 +30,7 @@ Este portfolio refleja mi proceso de aprendizaje y mi pasión por transformar da
 - 📈 Incluye EDA + validación de hipótesis + selección de variables + modelos predictivos
 - 🎯 Objetivo: pasar de un enfoque reactivo a un sistema de alerta temprana
 
-### 🔹 [Predicción de Churn](.Proyectos_en_Python/Proyecto_DSII_Churn_Clientes_Lopez_Lucas.ipynb)
+### 🔹 [Predicción de Churn](.Proyectos%20en%20Python%20/Proyecto_DSII_Churn_Clientes_Lopez_Lucas.ipynb)
 > Modelo de clasificación para predecir abandono de clientes en un banco.
 - 🐍 Python (Pandas, Numpy, Scikit-learn, ML)
 - 📊 Precisión: 90% en clasificación
