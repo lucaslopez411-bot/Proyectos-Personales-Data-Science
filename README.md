@@ -45,12 +45,10 @@ Este portfolio refleja mi proceso de aprendizaje y mi pasión por transformar da
 ### 🤖 Machine Learning
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-FF6F00?style=for-the-badge&logo=xgboost&logoColor=white)
-![LightGBM](https://img.shields.io/badge/LightGBM-1793D0?style=for-the-badge&logo=lightgbm&logoColor=white)
 
 ### 🧠 Técnicas de ML
-- **Bagging**: Random Forest, BaggingClassifier
-- **Boosting**: XGBoost, LightGBM, AdaBoost
-- **Optimización**: GridSearchCV, RandomizedSearchCV
+- **Boosting**: XGBoost, Gradient Boosting
+- **Optimización**: GridSearchCV
 
 ### 🐍 Bases
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
