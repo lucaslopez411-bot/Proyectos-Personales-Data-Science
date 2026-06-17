@@ -36,7 +36,7 @@ Este portfolio refleja mi proceso de aprendizaje y mi pasión por transformar da
 - 📊 Precisión: 90% en clasificación
 - 📓 Incluye EDA + modelo + conclusiones
 
-### 🔹 [Dashboard de Negocios con Power BI]((https://github.com/lucaslopez411-bot/Proyectos-Personales-Data-Science/tree/main/Dashboard%20en%20Power%20BI) 🔄 Próximamente
+### 🔹 [Dashboard de Negocios con Power BI](https://github.com/lucaslopez411-bot/Proyectos-Personales-Data-Science/tree/main/Dashboard%20en%20Power%20BI) 🔄 Próximamente
 > Visualización interactiva de ventas, márgenes y KPIs comerciales.
 - 📊 Power BI + DAX
 - 📁 Datos simulados de retail
