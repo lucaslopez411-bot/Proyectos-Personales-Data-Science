@@ -12,7 +12,7 @@ Este portfolio refleja mi proceso de aprendizaje y mi pasión por transformar da
 
 | 📊 **Análisis exploratorio (EDA)** | Python, Pandas, Matplotlib | 🚀 Disponibles |
 | 🤖 **Modelos de Machine Learning** | Scikit-learn, XGBoost | ✅ Disponibles |
-| 📈 **Dashboards interactivos** | Power BI, Excel | 🔄 Próximamente |
+| 📈 **Dashboards interactivos** | Power BI, Excel |
 | 💰 **Finanzas y contabilidad analítica** | Python, SQL | 📌 Planeado |
 
 ---
