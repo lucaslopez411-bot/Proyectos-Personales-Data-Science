@@ -99,7 +99,3 @@ Este dashboard permite:
 
 Los datos utilizados en este repositorio fueron anonimizados con fines demostrativos. Los nombres de clientes, montos y referencias comerciales fueron modificados para preservar la confidencialidad de la información.
 
-Data Storytelling
-🔒 Privacidad
-
-Los datos utilizados en este repositorio fueron anonimizados con fines demostrativos. Los nombres de clientes, montos y referencias comerciales fueron modificados para preservar la confidencialidad de la información.
