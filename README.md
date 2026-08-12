@@ -19,6 +19,12 @@ Este portfolio refleja mi proceso de aprendizaje y mi pasión por transformar da
 
 ## 📁 Proyectos destacados
 
+### 🔹 [Dashboard de Negocios con Power BI](https://github.com/lucaslopez411-bot/Proyectos-Personales-Data-Science/tree/main/Dashboard%20en%20Power%20BI) 
+> Visualización interactiva de ventas, márgenes y KPIs comerciales.
+- 📊 Power BI + DAX
+- 📁 Datos simulados de retail
+- 🖼️ Preview incluido
+
 ### 🔹 [Clasificación de Sentimientos en Tweets — NLP & PyTorch](https://github.com/lucaslopez411-bot/Proyectos-Personales-Data-Science/blob/main/Proyectos%20en%20Python%20/Proyecto_NLP.ipynb)
 
 > Modelo de clasificación multiclase de sentimientos en tweets en español mediante técnicas de Procesamiento de Lenguaje Natural (NLP) y una red neuronal desarrollada con PyTorch.
@@ -34,6 +40,25 @@ Este portfolio refleja mi proceso de aprendizaje y mi pasión por transformar da
 - 🔬 Comparación de estrategias de procesamiento lingüístico con NLTK y spaCy
 - 🎯 Objetivo: desarrollar un pipeline completo de NLP, desde la exploración y limpieza de texto hasta el entrenamiento y evaluación de un modelo neuronal para clasificación de sentimientos.
 
+### 🔹 [Predicción de Churn](https://github.com/lucaslopez411-bot/Proyectos-Personales-Data-Science/blob/main/Proyectos%20en%20Python%20/Proyecto_DSII_Churn_Clientes_Lopez_Lucas.ipynb)
+> Modelo de clasificación para predecir abandono de clientes en un banco + Plus de Regresión para Credit Limit y Clustering con K-Means.
+- 🐍 Python (Pandas, Numpy, Scikit-learn, ML)
+- 📊 Precisión: 90% en clasificación
+- 📓 Incluye EDA + modelo + conclusiones
+
+### 🔹 [Análisis Estadístico de Indicadores Financieros — Empresas Chilenas](https://github.com/lucaslopez411-bot/Proyectos-Personales-Data-Science/blob/main/Proyectos%20en%20Python%20/Analisis_Estadistico_Empresas_Chilenas.ipynb)
+
+> Análisis de información contable y financiera de **1.452 empresas chilenas**, aplicando estadística descriptiva e inferencial para estudiar la relación entre rentabilidad y distribución de dividendos.
+
+- 💰 **Financial Analytics:** construcción y análisis de ratios de liquidez, endeudamiento, rotación, rentabilidad y efectivo
+- 🐍 **Python:** Pandas, NumPy, SciPy, Statsmodels y Plotly
+- 📊 **EDA:** distribuciones, boxplots, percentiles, IQR, asimetría y coeficiente de variación
+- 🧪 **Inferencia estadística:** intervalos de confianza, T-Test, Welch T-Test, F-Test y Chi-Cuadrado
+- 📈 **Resultado:** ~90,6% de las empresas distribuyen dividendos
+- 🔎 **Hallazgo:** no se observaron diferencias significativas en la rentabilidad media según distribución de dividendos, aunque sí diferencias en su variabilidad
+- 🔗 **Asociación:** se encontró evidencia estadística de relación entre los niveles de rentabilidad y la distribución de dividendos
+- 🎯 Objetivo:** integrar información contable-financiera con herramientas estadísticas para analizar patrones empresariales y generar evidencia útil para la toma de decisiones.
+
 ### 🔹 [Predicción de Depresión Estudiantil](https://github.com/lucaslopez411-bot/Proyectos-Personales-Data-Science/blob/main/Proyectos%20en%20Python%20/Student_Depresion_Prediction.ipynb)
 
 > Sistema de Machine Learning para detectar de forma temprana el riesgo de depresión en estudiantes.
@@ -44,18 +69,6 @@ Este portfolio refleja mi proceso de aprendizaje y mi pasión por transformar da
 - 🧠 Enfoque: identificación de factores clave (estrés financiero, presión académica, sueño, pensamientos suicidas)
 - 📈 Incluye EDA + validación de hipótesis + selección de variables + modelos predictivos
 - 🎯 Objetivo: pasar de un enfoque reactivo a un sistema de alerta temprana
-
-### 🔹 [Predicción de Churn](https://github.com/lucaslopez411-bot/Proyectos-Personales-Data-Science/blob/main/Proyectos%20en%20Python%20/Proyecto_DSII_Churn_Clientes_Lopez_Lucas.ipynb)
-> Modelo de clasificación para predecir abandono de clientes en un banco + Plus de Regresión para Credit Limit y Clustering con K-Means.
-- 🐍 Python (Pandas, Numpy, Scikit-learn, ML)
-- 📊 Precisión: 90% en clasificación
-- 📓 Incluye EDA + modelo + conclusiones
-
-### 🔹 [Dashboard de Negocios con Power BI](https://github.com/lucaslopez411-bot/Proyectos-Personales-Data-Science/tree/main/Dashboard%20en%20Power%20BI) 
-> Visualización interactiva de ventas, márgenes y KPIs comerciales.
-- 📊 Power BI + DAX
-- 📁 Datos simulados de retail
-- 🖼️ Preview incluido
 
 ### 🔹 [Análisis Financiero de Estados Contables](./Financial-Data-Analysis) 📌 Planeado  
 > Limpieza y análisis de balances contables con Python.
