@@ -19,6 +19,21 @@ Este portfolio refleja mi proceso de aprendizaje y mi pasión por transformar da
 
 ## 📁 Proyectos destacados
 
+### 🔹 [Clasificación de Sentimientos en Tweets — NLP & PyTorch](https://github.com/lucaslopez411-bot/Proyectos-Personales-Data-Science/blob/main/Proyecto_NLP.ipynb)
+
+> Modelo de clasificación multiclase de sentimientos en tweets en español mediante técnicas de Procesamiento de Lenguaje Natural (NLP) y una red neuronal desarrollada con PyTorch.
+
+- 🐍 Python: Pandas, NumPy, Scikit-learn
+- 🧠 NLP: NLTK, spaCy y Regex
+- 🔤 Representación: TF-IDF
+- 🔥 Deep Learning: PyTorch
+- 🏗️ Red neuronal multicapa con Batch Normalization, ReLU y Dropout
+- 🛑 Implementación de Early Stopping
+- 📊 Evaluación mediante Accuracy, Precision, Recall, F1-Score y matriz de confusión
+- 🎯 Accuracy en test: ~64,5%
+- 🔬 Comparación de estrategias de procesamiento lingüístico con NLTK y spaCy
+- 🎯 Objetivo: desarrollar un pipeline completo de NLP, desde la exploración y limpieza de texto hasta el entrenamiento y evaluación de un modelo neuronal para clasificación de sentimientos.
+
 ### 🔹 [Predicción de Depresión Estudiantil](https://github.com/lucaslopez411-bot/Proyectos-Personales-Data-Science/blob/main/Proyectos%20en%20Python%20/Student_Depresion_Prediction.ipynb)
 
 > Sistema de Machine Learning para detectar de forma temprana el riesgo de depresión en estudiantes.
