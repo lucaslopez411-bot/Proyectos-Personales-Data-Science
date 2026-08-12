@@ -19,7 +19,7 @@ Este portfolio refleja mi proceso de aprendizaje y mi pasión por transformar da
 
 ## 📁 Proyectos destacados
 
-### 🔹 [Clasificación de Sentimientos en Tweets — NLP & PyTorch](https://github.com/lucaslopez411-bot/Proyectos-Personales-Data-Science/blob/main/Proyecto_NLP.ipynb)
+### 🔹 [Clasificación de Sentimientos en Tweets — NLP & PyTorch](https://github.com/lucaslopez411-bot/Proyectos-Personales-Data-Science/blob/main/Proyectos%20en%20Python%20/Proyecto_NLP.ipynb)
 
 > Modelo de clasificación multiclase de sentimientos en tweets en español mediante técnicas de Procesamiento de Lenguaje Natural (NLP) y una red neuronal desarrollada con PyTorch.
 
